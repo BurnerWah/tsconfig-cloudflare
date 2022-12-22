@@ -8,6 +8,10 @@
   ],
   "author": "Burner <npm@brnr.link>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BurnerWah/tsconfig-cloudflare.git"
+  },
   "devDependencies": {
     "prettier": "^2.8.1"
   }

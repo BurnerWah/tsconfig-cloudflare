@@ -1,6 +1,6 @@
 {
   "name": "@burnerwah/tsconfig-cloudflare",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A base TSConfig for Cloudflare Workers",
   "keywords": [
     "tsconfig",
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BurnerWah/tsconfig-cloudflare.git"
+    "url": "https://github.com/BurnerWah/tsconfig-cloudflare"
   },
   "devDependencies": {
     "prettier": "^2.8.1"

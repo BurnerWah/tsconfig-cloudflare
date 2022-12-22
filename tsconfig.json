@@ -9,7 +9,7 @@
     "types": ["@cloudflare/workers-types"],
     "resolveJsonModule": true,
     "allowJs": true,
-    "checkJs": true,
+    "checkJs": false,
     "noEmit": true,
     "isolatedModules": true,
     "allowSyntheticDefaultImports": true,

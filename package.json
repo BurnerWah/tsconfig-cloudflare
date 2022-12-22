@@ -1,6 +1,6 @@
 {
   "name": "@burnerwah/tsconfig-cloudflare",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A base TSConfig for Cloudflare Workers",
   "keywords": [
     "tsconfig",

@@ -1,0 +1,14 @@
+{
+  "name": "@burnerwah/tsconfig-cloudflare",
+  "version": "1.0.0",
+  "description": "A base TSConfig for Cloudflare Workers",
+  "keywords": [
+    "tsconfig",
+    "cloudflare"
+  ],
+  "author": "Burner <npm@brnr.link>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.8.1"
+  }
+}
